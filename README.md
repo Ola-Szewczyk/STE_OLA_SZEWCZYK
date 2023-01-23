@@ -1,0 +1,2 @@
+# STE_OLA_SZEWCZYK
+homework Jan 28, 2023
