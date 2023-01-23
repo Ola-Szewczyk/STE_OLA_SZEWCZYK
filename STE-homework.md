@@ -4,7 +4,7 @@ As a technical writer, you will have to deal with an unresponsive SME. Here are 
 
 **Be prepared**
 
-Do you know what you need from your SME? It’s always good to be prepared. Not only will you feel more confident, but you’ll also be able to collect more information. Your being prepared will also make it more difficult for the SME to dismiss you before you get exactly what you need.
+Do you know what you need from your SME? It’s always good to be prepared. You'll feel more confident, but you’ll also be able to collect more information. Your being prepared will also make it more difficult for the SME to dismiss you before you get exactly what you need.
 
 -   Make sure you gather the accessible information before the interview - search for existing sources of knowledge. Read. Analyze. Have your point of view.
 -   Show your SME that you already know what you’re writing about. Asking for general information may make them even less cooperative.
